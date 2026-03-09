@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/brianclark0180/67422ba3-c9ff-45f9-a419-4c4aef05ca17/e7cb2917-a906-4ade-bd5f-dd80547e22dc/_apis/work/boardbadge/e0ad6711-1008-4d50-8569-404098158e29)](https://dev.azure.com/brianclark0180/67422ba3-c9ff-45f9-a419-4c4aef05ca17/_boards/board/t/e7cb2917-a906-4ade-bd5f-dd80547e22dc/Microsoft.RequirementCategory)
 # SmartfleetPLC
 
 Welcome to **SmartfleetPLC** — an innovative fleet management platform built for the modern era of connected vehicles and intelligent logistics.
